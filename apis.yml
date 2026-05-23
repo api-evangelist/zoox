@@ -1,0 +1,68 @@
+aid: zoox
+name: Zoox
+description: >-
+  Zoox is an Amazon subsidiary developing a purpose-built, bidirectional,
+  symmetrical robotaxi vehicle designed from the ground up for autonomous
+  ride-hailing rather than retrofitted from a conventional car. The vehicle
+  carries up to four riders in a carriage-style seating layout, has no steering
+  wheel or pedals, and is engineered for dense urban operation. Zoox provides
+  the autonomous driving stack, the vehicle hardware, and a consumer ride-hail
+  app. Commercial robotaxi service has launched in Las Vegas and San Francisco,
+  with expansion announced for Austin, Miami, Atlanta, and Los Angeles. Acquired
+  by Amazon in 2020, Zoox does not publish a public developer API or open
+  research dataset; its public surface is product, ride-experience, and safety
+  content. This profile captures the company surface for API Evangelist
+  reference.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consumer
+tags:
+  - Autonomous Vehicles
+  - Robotaxi
+  - Purpose-Built Vehicle
+  - Ride-Hailing
+  - Amazon
+  - Self-Driving
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/zoox/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://zoox.com
+  - type: AboutUs
+    url: https://zoox.com/company/
+  - type: Newsroom
+    url: https://zoox.com/journal/
+  - type: Safety
+    url: https://zoox.com/safety/
+  - type: Technology
+    url: https://zoox.com/vehicle/
+  - type: HowToRide
+    url: https://zoox.com/how-to-ride
+  - type: WhereToRide
+    url: https://zoox.com/where-to-ride
+  - type: App
+    url: https://zoox.com/app
+  - type: Support
+    url: https://zoox.com/support
+  - type: Careers
+    url: https://zoox.com/careers/
+  - type: PrivacyPolicy
+    url: https://zoox.com/privacy
+  - type: TermsOfService
+    url: https://zoox.com/terms
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/zoox
+  - type: Twitter
+    url: https://twitter.com/zoox
+  - type: YouTube
+    url: https://www.youtube.com/@zoox
+  - type: Instagram
+    url: https://www.instagram.com/zoox
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
