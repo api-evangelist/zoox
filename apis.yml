@@ -31,6 +31,10 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/zoox-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/zoox-domain-security.yml
   - type: Website
     url: https://zoox.com
   - type: AboutUs
