@@ -39,7 +39,7 @@ tags:
   - Self-Driving
 url: >-
   https://raw.githubusercontent.com/api-evangelist/zoox/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: VulnerabilityDisclosure
